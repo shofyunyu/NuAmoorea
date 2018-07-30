@@ -1,0 +1,38 @@
+{
+  "name": "kurikulum-13.blogspot.com",
+  "short_name": "Kurikulum 2013",
+  "start_url": "https://kurikulum-13.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#f24a4a",
+  "description": "Kurikulum 2013 Revisi 2018",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-msvbtc3PnxA/W18qU9Ah0AI/AAAAAAAAARw/lvyxXOfTrTE4snMQhl6Doy8GyceV-CrWgCLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-eX11ex_NUxc/W18tbb9WccI/AAAAAAAAASc/2f13Yeowag40LSBB-S3tfRiEojLvQ237ACLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-09FfuvZ7HzQ/W18tPeurbTI/AAAAAAAAASU/0YANih4EWkUOtIs0GrKAve-IuVktvHV2ACLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DdE4v025n4w/W18tDUmmLpI/AAAAAAAAASM/rs7bwDtmQAgUfbprLgjfVWXskHZwg_U4wCLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-S_b1z61nxIg/W18szxNakcI/AAAAAAAAASI/Tszh4YfVJR0KiEoabhP63ayDneQobrMwwCLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": ""https://1.bp.blogspot.com/-Y95x5vLJwDI/W18sU1AG09I/AAAAAAAAASA/x0QxFW7kVMgG7eAAs7z0OIiOhjchJvHNACLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-u2LaYOMjD2E/W18ri7fXsnI/AAAAAAAAAR4/eL5d2UvOclsLvWmYYGq3tfMEfACzwwaqACLcBGAs/s1600/Logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
